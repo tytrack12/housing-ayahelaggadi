@@ -1,0 +1,1 @@
+ce projet implemente une api et un modek de machine learning pour predire la valeur mediane des logements 
