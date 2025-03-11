@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe7e74f5fb3e41cd818dd5ee040dd6cb/artifacts
+end_time: 1741574309449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe7e74f5fb3e41cd818dd5ee040dd6cb
+run_name: tasteful-sponge-265
+run_uuid: fe7e74f5fb3e41cd818dd5ee040dd6cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741574309413
+status: 4
+tags: []
+user_id: ayah

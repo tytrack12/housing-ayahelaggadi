@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ad11a36b5a6473dad06168ebf9b282c/artifacts
+end_time: 1741594803593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad11a36b5a6473dad06168ebf9b282c
+run_name: omniscient-snake-929
+run_uuid: 3ad11a36b5a6473dad06168ebf9b282c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741594795523
+status: 4
+tags: []
+user_id: ayah

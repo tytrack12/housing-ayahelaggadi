@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/037331c4682c4166bb804b1dbdf1c69c/artifacts
+end_time: 1741579251676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 037331c4682c4166bb804b1dbdf1c69c
+run_name: caring-kit-330
+run_uuid: 037331c4682c4166bb804b1dbdf1c69c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741579251639
+status: 4
+tags: []
+user_id: ayah
